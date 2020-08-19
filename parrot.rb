@@ -3,6 +3,4 @@ def parrot
   "Squawk!"
 end
 
-def parrot
-  phrase = parrot
-end
+
